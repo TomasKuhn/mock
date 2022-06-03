@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "places": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Praha"
     },
     {
       "id": 2,
-      "title": "World"
+      "name": "Berlin"
     },
     {
       "id": 3,
-      "title": "XXx"
+      "name": "Bratislava"
     }
   ],
   "profile": {
